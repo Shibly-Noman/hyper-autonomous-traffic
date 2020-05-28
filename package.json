@@ -1,0 +1,28 @@
+{
+  "name": "hyper-autonomous-traffic",
+  "version": "1.0.0",
+  "description": "This is a visualization of next level autonomous traffic sytem.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shibly-Noman/hyper-autonomous-traffic.git"
+  },
+  "keywords": [
+    "p5.js",
+    "visualization",
+    "blockchain",
+    "hyperledger"
+  ],
+  "author": "Shibly Mohammad Noman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shibly-Noman/hyper-autonomous-traffic/issues"
+  },
+  "homepage": "https://github.com/Shibly-Noman/hyper-autonomous-traffic#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
